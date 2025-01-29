@@ -1,9 +1,13 @@
 <!-- README.md para o GitHub Profile -->
+![Snake animation](https://github.com/isb-op/isb-op/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Olá, eu sou a Isabella👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isb-op&show_icons=true&theme=dracula" alt="GitHub Stats">
-</p>
+<div align="center">
+<a href="https://github.com/isb-op">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isb-op&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isb-op&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 🚀 Sobre mim
 
@@ -33,4 +37,8 @@
   <a href="mailto:isabella.op95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="http://lattes.cnpq.br/7762301473993038" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-005a9c?style=for-the-badge&logo=read-the-docs&logoColor=white">
+</a>
+  <a href="https://www.instagram.com/isabelladeoliveira_p/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
