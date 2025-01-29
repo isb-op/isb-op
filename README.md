@@ -1,7 +1,6 @@
 <!-- README.md para o GitHub Profile -->
-![Snake animation](https://github.com/isb-op/isb-op/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">Olá, eu sou a Isabella👋</h1>
+<h1 align="center"> Oiiiii! </h1>
 
 <div align="center">
 <a href="https://github.com/isb-op">
