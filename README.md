@@ -11,8 +11,8 @@
 ## 🚀 Sobre mim
 
 - 🎓 **Formação**: Bióloga e Mestre em Biotecnologia Vegetal | Desenvolvedora FullStack
-- 💻 **Atualmente**: Focada em **Backend** e **Análise de Dados**
-- 📊 **Habilidades**: SQL, Power BI, Spring Boot, React, PostgreSQL, API Rest
+- 💻 **Atualmente**: Focada em **Backend**
+- 📊 **Habilidades**: Java, API Rest, SQL, React, PostgreSQL 
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
