@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
-## Algunas Projetos
+## Alguns Projetos
 - 🔹 [Sistema de Gestão de Eventos](https://github.com/isb-op/FrontEnd-React-EventManager)
 - 🔹 [E-commerce FullStack (React + Spring Boot)](https://github.com/isb-op/SerratecPUB)
 - 🔹 [TripNavigator - Plataforma de navegação e exploração de viagens](https://github.com/isb-op/TripNavigator)
